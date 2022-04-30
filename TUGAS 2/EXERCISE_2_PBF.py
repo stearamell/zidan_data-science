@@ -1,7 +1,7 @@
-# Author : ahmad zidan wirawan  
+# Nama : ahmad zidan wirawan  
 # NIM : 120450044
 # Kelas : RB
-# Affiliation : Sains Data ITERA
+# prodi : Sains Data ITERA
 
 import numpy as np
 a = open("text1.txt", 'w')
