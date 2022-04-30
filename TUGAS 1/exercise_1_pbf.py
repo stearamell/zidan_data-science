@@ -7,12 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/1tgMz1502OiivVPn1jF1PpUqEggTxohpO
 """
 
-# Program main1_120450054.py
+# Program main1_120450044.py
 # Nama : ahmad zidan wirawan 
-# NIM : 120450054
+# NIM : 120450044
 # Kelas : RB
 # prodi : Sains Data ITERA
-# tanggal: 30 maret2022
+# tanggal: 30 maret 2022
 # Program Description : Program to solve simple encryption password problem (case 1)
 
 # a. Bantulah user tersebut dengan membuatkan sebuah program yang secara otomatis mengubah password yang di input menjadi terenkripsi sesuai aturan tersebut!
